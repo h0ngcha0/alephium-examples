@@ -1,0 +1,32 @@
+{
+  "name": "ShinyToken",
+  "bytecode": "00010c0102020200041600b11601ab",
+  "codeHash": "91722e86ab62da0ee5b2c025a85635492d0ffff6da693a4800af7d01d5863afc",
+  "fieldsSig": {
+    "names": [],
+    "types": [],
+    "isMutable": []
+  },
+  "eventsSig": [],
+  "functions": [
+    {
+      "name": "transfer",
+      "usePreapprovedAssets": false,
+      "useAssetsInContract": true,
+      "isPublic": true,
+      "paramNames": [
+        "to",
+        "amount"
+      ],
+      "paramTypes": [
+        "Address",
+        "U256"
+      ],
+      "paramIsMutable": [
+        false,
+        false
+      ],
+      "returnTypes": []
+    }
+  ]
+}

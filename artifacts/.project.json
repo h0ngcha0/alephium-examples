@@ -1,0 +1,20 @@
+{
+  "compilerOptionsUsed": {
+    "ignoreUnusedConstantsWarnings": false,
+    "ignoreUnusedVariablesWarnings": false,
+    "ignoreUnusedFieldsWarnings": false,
+    "ignoreUnusedPrivateFunctionsWarnings": false,
+    "ignoreReadonlyCheckWarnings": false,
+    "ignoreExternalCallCheckWarnings": false
+  },
+  "infos": {
+    "contracts/shiny-token.ral": {
+      "sourceCodeHash": "c05a9316dcf266b27056ccc12b776c113fde68dd799c445a3ac4ec7ee2dc4324",
+      "warnings": []
+    },
+    "contracts/transfer.ral": {
+      "sourceCodeHash": "a83978ee90934e617c4fd12eb3fcb6362e8ec136e4505c08c5233b2ebf94efbf",
+      "warnings": []
+    }
+  }
+}
