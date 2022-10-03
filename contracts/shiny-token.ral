@@ -2,5 +2,6 @@ Contract ShinyToken() {
   @using(assetsInContract = true)
   pub fn transfer(to: Address, amount: U256) -> () {
     transferTokenFromSelf!(to, selfContractId!(), amount)
+    transferAlphFromSelf!(to, dustAmount!())
   }
 }

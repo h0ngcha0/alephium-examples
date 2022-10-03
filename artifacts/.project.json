@@ -9,7 +9,7 @@
   },
   "infos": {
     "contracts/shiny-token.ral": {
-      "sourceCodeHash": "c05a9316dcf266b27056ccc12b776c113fde68dd799c445a3ac4ec7ee2dc4324",
+      "sourceCodeHash": "2873f53d4551548d5e0e66cb417927096aebd138116b75b5069858d86c4395be",
       "warnings": []
     },
     "contracts/transfer.ral": {
