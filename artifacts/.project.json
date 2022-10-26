@@ -10,10 +10,14 @@
   "infos": {
     "contracts/shiny-token.ral": {
       "sourceCodeHash": "2873f53d4551548d5e0e66cb417927096aebd138116b75b5069858d86c4395be",
+      "bytecodeDebugPatch": "",
+      "codeHashDebug": "eb751581aa1fc6da7377f792446d49817a6627c1c41b30d1f83cb6ebb57492fa",
       "warnings": []
     },
     "contracts/transfer.ral": {
       "sourceCodeHash": "a83978ee90934e617c4fd12eb3fcb6362e8ec136e4505c08c5233b2ebf94efbf",
+      "bytecodeDebugPatch": "",
+      "codeHashDebug": "",
       "warnings": []
     }
   }
